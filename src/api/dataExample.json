@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Mike",
+            "task": "Backup the MacBook",
+            "done": true
+        },
+        {
+            "id": 2,
+            "firstname": "Alvin",
+            "task": "One cannot separate rats from friendly cows",
+            "done": false
+        },
+        {
+            "id": 3,
+            "firstname": "Mittie",
+            "task": "Get the milk",
+            "done": true
+        },
+        {
+            "id": 4,
+            "firstname": "Estelle",
+            "task": "A bright seal without lobsters is truly a bee of pro-active owls",
+            "done": false
+        },
+        {
+            "id": 5,
+            "firstname": "Victor",
+            "task": "An apricot can hardly be considered an eager deer without also being a...",
+            "done": true
+        },
+        {
+            "id": 6,
+            "firstname": "Andrew",
+            "task": "Go to work",
+            "done": false
+        },
+        {
+            "id": 7,
+            "firstname": "Mabelle",
+            "task": "Before limes, blackberries were only oranges",
+            "done": false
+        },
+        {
+            "id": 8,
+            "firstname": "Christina",
+            "task": "It's an undeniable fact, really; the currant is a horse",
+            "done": true
+        },
+        {
+            "id": 9,
+            "firstname": "Rose",
+            "task": "However, some successful chimpanzees are thought of simply as kumquats...",
+            "done": false
+        },
+        {
+            "id": 10,
+            "firstname": "Juan",
+            "task": "A strawberry is a kiwi from the right perspective",
+            "done": false
+        }
+    ]
+}

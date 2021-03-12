@@ -1,0 +1,180 @@
+.App {
+  height: 100vh;
+  background-color: #e6ebef;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Style-drawer{
+  width: 200px;
+  height: 100vh;
+  background-color: #0e3480;
+}
+
+.Style-logo{
+  width: 200px;
+  height: 100px;
+  background-color: #1245ac;
+}
+
+.Style-li-drawer{
+  padding:10px;
+  color:#ffffff;
+  text-align: left;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Inline-block{
+  display: inline-block;
+}
+
+.Style-title-da-completare{
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+  margin-top: 15px;;
+}
+
+.Margin-top-10{
+  margin-top:10px;
+}
+
+.Height-select{
+  height: 56px;
+}
+
+.Width-input{
+  width: 100%;
+}
+
+.End{
+  justify-content: flex-end;
+}
+
+.Margin-5{
+  margin: 5px !important;
+}
+
+.Background-drawer{  
+  background-color: '#2a3948' !important;
+  color:'#ffffff';
+}
+
+.Background-white{
+  background-color: "#ffffff" !important;
+}
+
+.Dimension-icon-user{
+  max-width: 30px;
+}
+
+.Text-right{
+  text-align: right;
+}
+
+.Style-username{
+  font-weight: bold;
+  color: #616161;
+}
+
+.Ruolo{
+  font-size:10px !important;
+  font-weight: normal !important;
+}
+
+.Font-size-16{
+  font-size: 16px;
+}
+
+.MuiDataGrid-colCellTitleContainer{
+  background-color: #be0010;
+}
+
+.MuiDataGrid-colCell-draggable{
+  background-color: #be0010;
+}
+
+.MuiDataGrid-colCellSortable{
+  background-color: #be0010;
+}
+
+.MuiDataGrid-columnsContainer{
+  background-color: #be0010;
+}
+
+.MuiDataGrid-colCellTitle{
+  color: #ffffff !important;
+}
+
+.MuiIconButton-sizeSmall{
+  color: #ffffff !important;
+}
+
+.MuiDataGrid-iconButtonContainer{
+  color: #ffffff !important;
+}
+
+.MuiButton-containedPrimary{
+  background-color: #2a3948 !important;
+  font-size: 10px !important;
+  min-width: 80px !important;
+  min-height: 36px !important;
+}
+
+.MuiButton-contained{
+  font-size: 10px !important;
+  min-width: 80px !important;
+  min-height: 36px !important;
+}
+
+.ContainerButtonTable{
+  width: 100%;
+  text-align: right;
+}
+
+.Active{
+  background-color: #222e3a !important;
+  color: #bdc1c5 !important;
+}
+
+.MuiDataGrid-window{
+  overflow-y: hidden !important;
+}
+
+.Container-grid{
+  height: 400px; 
+  width: 100%;
+   margin-top: 10px
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
